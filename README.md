@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Q-SKADOO
+- 👋 Hi, I’m @Q-SKADOO and I am working to finish my dissertation research and writing
 - 👀 I’m interested in ... Computational Chemistry | Machine Learning | 3D Modeling | Coding
 - 🌱 I’m currently learning ... Swahili | GPU Programming | 
 - 💞️ I’m looking to collaborate on ... gaining future employment after I defend my dissertation (Summer 2023)
